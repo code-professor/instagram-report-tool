@@ -15,7 +15,7 @@ _ BULK REPROTS METHOD
 
 _ CLONING METHOD
 
-sessions and proxies are also needed
+sessions and good proxies are also needed
 
 You'll learn more once you get to my inbox
 
