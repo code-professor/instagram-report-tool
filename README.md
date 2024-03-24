@@ -11,9 +11,9 @@ here's my channel on telegram > https://t.me/+7kypF_oWo5xhOGY0
 
 This repository is basically meant for BANNING METHOD through variuos ways
 
-_ BULK REPROTS METHOD
+- BULK REPROTS METHOD
 
-_ CLONING METHOD
+-  CLONING METHOD
 
 sessions and good proxies are also needed
 
