@@ -17,7 +17,7 @@ This repository is basically meant for BANNING METHOD through variuos ways
 
 sessions and good proxies are also needed
 
-You'll learn more once you get to my inbox
+You'll learn more once you get to my inbox.
 
 This banning method is only applicable to:
 
